@@ -21,12 +21,12 @@ Android・iOS・Web・Desktop の中から2つ以上のプラットフォーム�
 
 memo: 他のプラットフォームについて
 
-| プラットフォーム | OS 等のバージョン | 画面サイズ |
-| --- | --- | --- |
-| Android | 10以上 | 横幅 xxx~yyy dp |
-| iOS | ？ |  |
-| Web | Chrome・Firefox・Edge・Safari の最新バージョンで動作すること？ |  |
-| Desktop | mac で動けばﾖｼ!？ |  |
+| プラットフォーム | OS 等のバージョン |
+| --- | --- |
+| Android | 10以上 |
+| iOS | ？ |
+| Web | Chrome・Firefox・Edge・Safari の最新バージョンで動作すること？ |
+| Desktop | mac で動けばﾖｼ!？ |
 
 ### 動作
 
