@@ -19,14 +19,12 @@ Android・iOS・Web・Desktop の中から2つ以上のプラットフォーム�
 
 ### 対象 OS と バージョン
 
-memo: 他のプラットフォームについて
+各プラットフォームの最新の安定バージョンで動作すること（パッチバージョンは無視しても良いです）
 
-| プラットフォーム | OS 等のバージョン |
-| --- | --- |
-| Android | 10以上 |
-| iOS | ？ |
-| Web | Chrome・Firefox・Edge・Safari の最新バージョンで動作すること？ |
-| Desktop | mac で動けばﾖｼ!？ |
+- Android
+- iOS
+- Web（Chrome）
+- Desktop（mac/Win）
 
 ### 動作
 
