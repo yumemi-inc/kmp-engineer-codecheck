@@ -36,12 +36,6 @@ memo: 他のプラットフォームについて
 - 検索結果は一覧で概要（リポジトリ名）を表示する
 - 検索結果のアイテムをタップしたら、該当リポジトリの詳細（リポジトリ名、オーナーアイコン、プロジェクト言語、Star 数、Watcher 数、Fork 数、Issue 数）を表示する
 
-### デザイン
-
-Figma?
-
-memo: [AI に作らせても良さそう](https://www.figma.com/make/uXnaSzW4hUw1FbUHXovVsT/GitHub-Repository-Search-App?t=1qs7gFc74wdafkYs-1)
-
 ## 提出方法
 
 - GitHub の public リポジトリの URL をお知らせください
